@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shreekesarkar9533@gmail.com**
 
-- ⚡**पैसा भगवान छे !!!**
+- ⚡ **पैसा भगवान छे !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
