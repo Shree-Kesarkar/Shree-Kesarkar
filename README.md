@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/620/0*dunTLlei47QWR7NR.gif)](https://Shree9533.io)
+![MasterHead](https://images.axios.com/xZxRe3Wn_XMfYm5sCalZuwX9Mc8=/0x0:1920x1080/1920x1080/2020/06/09/1591702479502.gif)
 <h1 align="center">Hi 👋 Welcome to Shree's Profile</h1>
 <h3 align="center">A passionate Trader</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **OPTION BUYING/SELLING**
 
-- 📝 I regularly write articles on [STOCK MARKET](STOCK MARKET)
+- 📝 I regularly write articles on **STOCK MARKET**
 
 - 💬 Ask me about **SWING TRADING, CHART PATTERNS, CANDLESTICK PATTERNS, INDICATORS, etc.**
 
